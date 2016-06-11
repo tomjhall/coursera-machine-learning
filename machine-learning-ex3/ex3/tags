@@ -1,0 +1,5 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+lrCostFunction	/home/tom/workspace/coursera/machine-learning-ex3/ex3/lrCostFunction.m	/^function [J, grad] = lrCostFunction(theta, X, y, lambda)$/;"	f	language:MatLab
+oneVsAll	/home/tom/workspace/coursera/machine-learning-ex3/ex3/oneVsAll.m	/^function [all_theta] = oneVsAll(X, y, num_labels, lambda)$/;"	f	language:MatLab
+predict	/home/tom/workspace/coursera/machine-learning-ex3/ex3/predict.m	/^function p = predict(Theta1, Theta2, X)$/;"	f	language:MatLab
+predictOneVsAll	/home/tom/workspace/coursera/machine-learning-ex3/ex3/predictOneVsAll.m	/^function p = predictOneVsAll(all_theta, X)$/;"	f	language:MatLab

@@ -1,0 +1,6 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+costFunction	/home/tom/workspace/coursera/machine-learning-ex2/ex2/costFunction.m	/^function [J, grad] = costFunction(theta, X, y)$/;"	f	language:MatLab
+costFunctionReg	/home/tom/workspace/coursera/machine-learning-ex2/ex2/costFunctionReg.m	/^function [J, grad] = costFunctionReg(theta, X, y, lambda)$/;"	f	language:MatLab
+plotData	/home/tom/workspace/coursera/machine-learning-ex2/ex2/plotData.m	/^function plotData(X, y)$/;"	f	language:MatLab
+predict	/home/tom/workspace/coursera/machine-learning-ex2/ex2/predict.m	/^function p = predict(theta, X)$/;"	f	language:MatLab
+sigmoid	/home/tom/workspace/coursera/machine-learning-ex2/ex2/sigmoid.m	/^function g = sigmoid(z)$/;"	f	language:MatLab

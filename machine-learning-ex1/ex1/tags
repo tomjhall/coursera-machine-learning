@@ -1,0 +1,9 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+computeCost	/home/tom/workspace/coursera/machine-learning-ex1/ex1/computeCost.m	/^function J = computeCost(X, y, theta)$/;"	f	language:MatLab
+computeCostMulti	/home/tom/workspace/coursera/machine-learning-ex1/ex1/computeCostMulti.m	/^function J = computeCostMulti(X, y, theta)$/;"	f	language:MatLab
+featureNormalize	/home/tom/workspace/coursera/machine-learning-ex1/ex1/featureNormalize.m	/^function [X_norm, mu, sigma] = featureNormalize(X)$/;"	f	language:MatLab
+gradientDescent	/home/tom/workspace/coursera/machine-learning-ex1/ex1/gradientDescent.m	/^function [theta, J_history] = gradientDescent(X, y, theta, alpha, num_iters)$/;"	f	language:MatLab
+gradientDescentMulti	/home/tom/workspace/coursera/machine-learning-ex1/ex1/gradientDescentMulti.m	/^function [theta, J_history] = gradientDescentMulti(X, y, theta, alpha, num_iters)$/;"	f	language:MatLab
+normalEqn	/home/tom/workspace/coursera/machine-learning-ex1/ex1/normalEqn.m	/^function [theta] = normalEqn(X, y)$/;"	f	language:MatLab
+plotData	/home/tom/workspace/coursera/machine-learning-ex1/ex1/plotData.m	/^function plotData(x, y)$/;"	f	language:MatLab
+warmUpExercise	/home/tom/workspace/coursera/machine-learning-ex1/ex1/warmUpExercise.m	/^function A = warmUpExercise()$/;"	f	language:MatLab

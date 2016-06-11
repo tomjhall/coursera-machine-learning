@@ -1,0 +1,6 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+dataset3Params	/home/tom/workspace/coursera/machine-learning-ex6/ex6/dataset3Params.m	/^function [C, sigma] = dataset3Params(X, y, Xval, yval)$/;"	f	language:MatLab
+emailFeatures	/home/tom/workspace/coursera/machine-learning-ex6/ex6/emailFeatures.m	/^function x = emailFeatures(word_indices)$/;"	f	language:MatLab
+gaussianKernel	/home/tom/workspace/coursera/machine-learning-ex6/ex6/gaussianKernel.m	/^function sim = gaussianKernel(x1, x2, sigma)$/;"	f	language:MatLab
+processEmail	/home/tom/workspace/coursera/machine-learning-ex6/ex6/processEmail.m	/^function word_indices = processEmail(email_contents)$/;"	f	language:MatLab
+visualizeBoundary	/home/tom/workspace/coursera/machine-learning-ex6/ex6/visualizeBoundary.m	/^function visualizeBoundary(X, y, model, varargin)$/;"	f	language:MatLab

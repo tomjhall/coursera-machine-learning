@@ -1,0 +1,7 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+computeCentroids	/home/tom/workspace/coursera/machine-learning-ex7/ex7/computeCentroids.m	/^function centroids = computeCentroids(X, idx, K)$/;"	f	language:MatLab
+findClosestCentroids	/home/tom/workspace/coursera/machine-learning-ex7/ex7/findClosestCentroids.m	/^function idx = findClosestCentroids(X, centroids)$/;"	f	language:MatLab
+kMeansInitCentroids	/home/tom/workspace/coursera/machine-learning-ex7/ex7/kMeansInitCentroids.m	/^function centroids = kMeansInitCentroids(X, K)$/;"	f	language:MatLab
+pca	/home/tom/workspace/coursera/machine-learning-ex7/ex7/pca.m	/^function [U, S] = pca(X)$/;"	f	language:MatLab
+projectData	/home/tom/workspace/coursera/machine-learning-ex7/ex7/projectData.m	/^function Z = projectData(X, U, K)$/;"	f	language:MatLab
+recoverData	/home/tom/workspace/coursera/machine-learning-ex7/ex7/recoverData.m	/^function X_rec = recoverData(Z, U, K)$/;"	f	language:MatLab
